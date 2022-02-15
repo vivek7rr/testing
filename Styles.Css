@@ -1,0 +1,50 @@
+body {
+background-color: #FDFDFD;
+font-family:Monospace;
+font-size:10pt;
+
+}
+
+table {border: 2px dashed #00c4ff;table-layout: fixed;}
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: -5px;
+    color: #FF0000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+    text-align: center
+}
+
+h2 {font-family:Tahoma;
+color:#FDFDFD; }
+
+h3 { font-family:Tahoma;
+color:#FDFDFD;}
+
+h4 { font-family:Tahoma;
+color:#FDFDFD;}
+
+h5 {font-family: "Arial Black", Gadget, sans-serif;
+font-size: 15px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #2DFF0F;
+font-weight: 700;
+text-decoration: overline solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase; }
+
+td { border: 2px double #3061de; }
+
+th { 
+border:1px solid black; 
+color:#00008B;
+background-color:white; 
+font-size: 12pt;
+}
